@@ -1,3 +1,5 @@
+[Ir al índice](../README.md)
+
 # Tips para videotutoriales
 
 Los siguientes *tips* son para el seguimiento de contenido a través de video, en particular videos sobre programación.
