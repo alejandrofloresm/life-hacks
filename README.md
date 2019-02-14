@@ -4,5 +4,5 @@ Este es un repositorio con distintos *life hacks*, en general esta lista se ha c
 
 ## Índice
 
-[Tips para seguir videotutoriales](docs/tips-videotutorials.md)
-[Consejos para programadores noobs](docs/tips-noob-programmer.md)
+* [Tips para seguir videotutoriales](docs/tips-videotutorials.md)
+* [Consejos para programadores noobs](docs/tips-noob-programmer.md)
